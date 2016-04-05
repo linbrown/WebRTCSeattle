@@ -1,3 +1,3 @@
 # WebRTCSeattle
-WebRTCicon.jpg
+!(WebRTCicon.jpg)
 Plugin free realtime communication
